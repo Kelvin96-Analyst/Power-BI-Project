@@ -2,7 +2,7 @@
 
 ## 🏢 Project Overview
 
-**Hemtech Enterprise** Hemtech Enterprise is one of the largest distributors of home appliances and household gadgets in Nigeria, generating annual revenue of over $2 million. The company has a solid presence across the country and continues to lead with its commitment to customer satisfaction and innovation.
+**Hemtech Enterprise** is one of the largest distributors of home appliances and household gadgets in Nigeria, generating annual revenue of over $2 million. The company has a solid presence across the country and continues to lead with its commitment to customer satisfaction and innovation.
 
 ### Campaign Objective:
 To improve regional sales performance and enhance brand visibility, top management launched a focused marketing campaign aimed at penetrating deeper into four high-potential cities:
@@ -95,26 +95,3 @@ This Power BI project provides **actionable insights** into Hemtech’s sales pe
 - DAX (for KPI calculations)
 
 ---
-
-## 📷 Screenshots
-
-> *(Include screenshots of your Power BI dashboard here if applicable)*  
-> Example:
-> ![Dashboard Overview](images/dashboard-overview.png)
-
----
-
-## 📂 Project Structure
-
-```bash
-Hemtech-Sales-Report/
-│
-├── data/
-│   └── Hemtech_Marketing_Campaign.xlsx
-│
-├── visuals/
-│   └── dashboard-overview.png
-│
-├── Hemtech_Sales_Analysis.pbix
-├── README.md
-
