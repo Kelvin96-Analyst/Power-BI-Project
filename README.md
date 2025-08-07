@@ -22,7 +22,7 @@ Deployed to Enugu and Delta, regions known for strong retail activity and growin
 
 ---
 
-## 🎯 Objective
+## 🎯 Project Objective
 
 This project involved the analysis of sales and marketing data collected over a 3-month period, using Power BI to deliver valuable insights into campaign effectiveness, regional sales trends, and the return on investment (ROI) from marketing efforts.
 The core objective was to design and develop an interactive Power BI dashboard and report capable of answering the following key performance questions:
@@ -105,4 +105,15 @@ To improve sales in **Delta and Enugu (Team Omega)** should focus on regional ma
 - DAX (for KPI calculations)
 
 ---
+
+**📌 Author**
+
+**Kelvin Ayogu**
+
+Data Analyst | Business Analyst | Operations Analyst
+
+---
+- **Disclaimer:**
+  
+This project is intended solely for educational and portfolio purposes, showcasing my Power BI skills and analytical experience. It is not affiliated with, endorsed by, or representative of any organization — including my current or previous employers.
 
