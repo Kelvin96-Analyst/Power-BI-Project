@@ -2,7 +2,7 @@
 
 ## 🏢 Project Overview
 
-**Hemtech Enterprise** is one of the largest distributors of home appliances and household gadgets in Nigeria, generating annual revenue of over $2 million. The company has a solid presence across the country and continues to lead with its commitment to customer satisfaction and innovation.
+**Hemtech Enterprise** is one of the largest distributors of home appliances and household gadgets in Nigeria, generating annual revenue of over **$50 million.** The company has a solid presence across the country and continues to lead with its commitment to customer satisfaction and innovation.
 
 ### Campaign Objective:
 To improve regional sales performance and enhance brand visibility, top management launched a focused marketing campaign aimed at penetrating deeper into four high-potential cities:
@@ -67,23 +67,33 @@ Using Power BI, we analyzed the dataset and created a set of interactive visual 
 
 ## 📈 Key Insights
 Based on the analysis conducted in Power BI, the following key insights and trends were identified:
-- **Total Sales**: ~$1.04 million  
-- **Average Monthly Sale per Order**: ~$64.75K  
-- **Total Orders**: 16  
-- **Total Marketing Spend**: ~$126K  
+  
+- **Total and average sales**: The total sales for the business across the 3 (three) states from May to July amount to approximately $1.8 million, with an average monthly sale of approximately $88.82K per order.
 
-- **East and South (Team B)** significantly outperformed North and West (Team A)
-- **Marketing ROI** was higher for Team B; e.g., in July:
-  - $17K extra spend led to $223K sales (Team B)
-  - $20K extra spend led to $65K sales (Team A)
-- **East Region** maintained the highest sales rank throughout the campaign
-- **West Region's** marketing spend did not yield proportionate sales, suggesting inefficiencies
+- **Sales across regions**: When looking at the states breakdown from the ribbon chart, Abuja and Lagos (Team Alpha) have higher sales when compared to Delta and Enugu (Team Omega), indicating better overall performance.
+
+- **Number of orders**: The total number of distinct orders placed during this period is around 20. This provides an insight into the volume of transactions that were processed.
+
+- **Marketing expenditure**: The total marketing expenditure during this period amounts to about $276K. In a monthly breakdown, marketing spend has seen a consistent increase which aligns with the objective of driving up sales.
+
+- **Sales and marketing expenditure relationship**: The waterfall chart indicates a positive correlation between sales and marketing spending. As the marketing expenditure increased, sales also grew. However, the Ads campaigns run by Team Alpha were more successful than Team Omega. An extra $98,000 spent on marketing brought approximately $745K of sales for Team Alpha in July. On the other hand, an extra $88,000 marketing budget brought only $331K in sales for Team Omega in July.
+
+- **Region performance and ranking**: The ribbon chart reveals that Abuja and Lagos (Team Alpha) consistently performed the best in terms of sales. However, even with substantial advertising spend, Delta and Enugu (Team Omega) did not perform proportionally well in sales, indicating potential issues with their advertising campaigns.
 
 ---
 
 ## ✅ Conclusion
 
-This Power BI project provides **actionable insights** into Hemtech’s sales performance, regional contributions, and marketing efficiency. It demonstrates how data visualization can guide strategic decisions, improve resource allocation, and track the impact of business campaigns.
+- This **Power BI project** delivers actionable insights into **Hemtech’s sales performance**, state contributions, and marketing effectiveness. It highlights the power of data visualization in driving strategic decision-making, optimizing resource allocation, and evaluating campaign impact.
+
+- Key performance indicators (KPIs) such as total sales, average sales, and total orders were effectively visualized using card and multi-row card visuals. Additionally, waterfall and ribbon charts were utilized to illustrate sales trends over time, assess the influence of marketing spend on sales, and track state-level performance rankings.
+
+- The analysis uncovered critical insights for the sales team — notably the strong performance of **Abuja and Lagos (Team Alpha)**, and potential inefficiencies in the **Delta and Enugu (Team Omega)** marketing campaigns.
+
+---
+
+## ✅ Recommendation
+To improve sales in **Delta and Enugu (Team Omega)** should focus on regional market growth through community-based promotions, partnerships with local influencers, and roadshow activations to strengthen overall advertising efforts.
 
 ---
 
@@ -95,3 +105,4 @@ This Power BI project provides **actionable insights** into Hemtech’s sales pe
 - DAX (for KPI calculations)
 
 ---
+
