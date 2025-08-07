@@ -68,7 +68,7 @@ Using Power BI, we analyzed the dataset and created a set of interactive visual 
 ## 📈 Key Insights
 Based on the analysis conducted in Power BI, the following key insights and trends were identified:
   
-- **Total and average sales**: The total sales for the business across the 3 (three) states from May to July amount to approximately $1.8 million, with an average monthly sale of approximately $88.82K per order.
+- **Total and average sales**: The total sales for the business across the 3 (three) states from May to July amount to approximately $1.74 million, with an average monthly sale of approximately $86.72K per order.
 
 - **Sales across regions**: When looking at the states breakdown from the ribbon chart, Abuja and Lagos (Team Alpha) have higher sales when compared to Delta and Enugu (Team Omega), indicating better overall performance.
 
@@ -116,5 +116,6 @@ Data Analyst | Business Analyst | Operations Analyst
 - **Disclaimer:**
   
 This project is intended solely for educational and portfolio purposes, showcasing my Power BI skills and analytical experience. It is not affiliated with, endorsed by, or representative of any organization — including my current or previous employers.
+
 
 
