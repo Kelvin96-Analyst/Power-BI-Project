@@ -117,3 +117,4 @@ Data Analyst | Business Analyst | Operations Analyst
   
 This project is intended solely for educational and portfolio purposes, showcasing my Power BI skills and analytical experience. It is not affiliated with, endorsed by, or representative of any organization — including my current or previous employers.
 
+
