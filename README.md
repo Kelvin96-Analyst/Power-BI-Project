@@ -80,11 +80,13 @@ Based on the analysis conducted in Power BI, the following key insights and tren
 
 - **Sales and marketing expenditure relationship**: The waterfall chart indicates a positive correlation between sales and marketing spending. As the marketing expenditure increased, sales also grew. However, the Ads campaigns run by Team Alpha were more successful than Team Omega. An extra $98,000 spent on marketing brought approximately $745K of sales for Team Alpha in July. On the other hand, an extra $88,000 marketing budget brought only $331K in sales for Team Omega in July.
 
-![Power BI Dashboard](Ribbon_chart.png)  
+  ![Power BI Dashboard](water_fall_chart.png)
+
+---
 
 - **Region performance and ranking**: The ribbon chart reveals that Abuja and Lagos (Team Alpha) consistently performed the best in terms of sales. However, even with substantial advertising spend, Delta and Enugu (Team Omega) did not perform proportionally well in sales, indicating potential issues with their advertising campaigns.
 
-![Power BI Dashboard](water_fall_chart.png)   
+  ![Power BI Dashboard](Ribbon_chart.png) 
 
 ---
 
@@ -96,7 +98,7 @@ Based on the analysis conducted in Power BI, the following key insights and tren
 
 - The analysis uncovered critical insights for the sales team — notably the strong performance of **Abuja and Lagos (Team Alpha)**, and potential inefficiencies in the **Delta and Enugu (Team Omega)** marketing campaigns.
 
-  ![Power BI Dashboard](Ribbon chart.png).
+  ![Power BI Dashboard](HTM_B.png).
 ---
 
 ## ✅ Recommendation
@@ -123,6 +125,7 @@ Data Analyst | Business Analyst | Operations Analyst
 - **Disclaimer:**
   
 This project is intended solely for educational and portfolio purposes, showcasing my Power BI skills and analytical experience. It is not affiliated with, endorsed by, or representative of any organization — including my current or previous employers.
+
 
 
 
