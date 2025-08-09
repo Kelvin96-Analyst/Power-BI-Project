@@ -34,7 +34,7 @@ The core objective was to design and develop an interactive Power BI dashboard a
 - What is the **total number of orders** placed?
 - What is the **total and monthly marketing expenditure**?
 - How have **sales changed over time**, and how do they correlate with marketing spending?
-- Which **region performed best**, and how did rankings evolve?
+- Which **State performed best**, and how did rankings evolve?
 
 ---
 
@@ -127,6 +127,7 @@ Data Analyst | Business Analyst | Operations Analyst
 - **Disclaimer:**
   
 This project is intended solely for educational and portfolio purposes, showcasing my Power BI skills and analytical experience. It is not affiliated with, endorsed by, or representative of any organization — including my current or previous employers.
+
 
 
 
