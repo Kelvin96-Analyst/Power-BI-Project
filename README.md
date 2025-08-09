@@ -4,6 +4,8 @@
 
 **Hemtech Enterprise** is one of the largest distributors of home appliances and household gadgets in Nigeria, generating annual revenue of over **$50 million.** The company has a solid presence across the country and continues to lead with its commitment to customer satisfaction and innovation.
 
+![Power BI Dashboard](Hemtech_image.png) 
+
 ### Campaign Objective:
 To improve regional sales performance and enhance brand visibility, top management launched a focused marketing campaign aimed at penetrating deeper into four high-potential cities:
 - Abuja
@@ -125,6 +127,7 @@ Data Analyst | Business Analyst | Operations Analyst
 - **Disclaimer:**
   
 This project is intended solely for educational and portfolio purposes, showcasing my Power BI skills and analytical experience. It is not affiliated with, endorsed by, or representative of any organization — including my current or previous employers.
+
 
 
 
